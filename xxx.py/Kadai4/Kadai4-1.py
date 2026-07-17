@@ -1,0 +1,9 @@
+"""
+プログラム名：Kadai4-1.py
+作成日：2026年5月22日
+作成者:CD71-3組K026C2043ミャットボーンカイン
+"""
+tokuten=int(input('情報処理の合計得点>>'))
+kumisu=int(input('情報処理クラス数>>'))
+hiekin=int(tokuten/kumisu)
+print('情報処理の平均点は{}です。'.format(hiekin))

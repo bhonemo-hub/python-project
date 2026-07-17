@@ -1,0 +1,11 @@
+"""
+プログラム名：Kadai4-2.py
+作成日：2026年5月22日
+作成者:CD71-3組K026C2043ミャットボーンカイン
+"""
+todouhu='東京都'
+sikucho='大田区西蒲田'
+cyoume=1
+banchi=2
+gou=3
+print('住所は{}{}{}{}{}です。'.format(todouhu,sikucho,cyoume,banchi,gou))

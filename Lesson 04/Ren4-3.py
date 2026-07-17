@@ -1,0 +1,13 @@
+"""
+プログラム名：Ren4-3.py
+作成日：2026年5月22日
+作成者:CD71-3組K026C2043ミャットボーンカイン
+"""
+price=input('料金を入力>>')
+price=int(price)
+number=input('人数を入力>>')
+number=int(number)
+payment=price/number
+payment=int(payment)
+#print('お支払いは'+payment+'円です')
+print('お支払いは'+str(payment)+'円です')

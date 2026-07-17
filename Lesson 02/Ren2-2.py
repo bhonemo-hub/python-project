@@ -1,0 +1,5 @@
+print('日')
+print('本')
+print('工')
+print('学')
+print('院')
